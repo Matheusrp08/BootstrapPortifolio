@@ -463,8 +463,8 @@
                 color: #1E1E2A;
                 text-decoration: none;
                 text-transform: uppercase;
-                letter-spacing: 4px;
-                font-size: 24px;
+                letter-spacing: 5px;
+                font-size: 28px;
             }
 
             #toggle:checked+.checkbox .trace:nth-child(1) {
