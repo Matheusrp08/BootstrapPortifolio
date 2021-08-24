@@ -7,6 +7,11 @@ body {
 
 }
 
+.celularcompartilhar {
+    display: none;
+
+}
+
 header {
     background-color: hsl(0, 0%, 26%);
     color: rgb(255, 255, 255);
@@ -44,5 +49,8 @@ footer {
         .mudartamanho {
             font-size: 14px;
         }
-    }
+.celularcompartilhar {
+    display: inline;
+        }
+}
 }
