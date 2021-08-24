@@ -1,6 +1,7 @@
 body {
     background: rgb(255, 255, 255);
-    ;
+    background-image: url(../img/backport.jpg);
+
     color: rgb(0, 0, 0);
 
 
@@ -35,8 +36,9 @@ footer {
     background: #00121a;
     color: rgb(255, 255, 255);
     text-align: center;
-
 }
+
+
 @media (max-width: 600px) {
     @media (max-width: 600px) {
         .mudartamanho {
