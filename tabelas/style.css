@@ -15,7 +15,7 @@ header {
 }
 
 .main {
-    background: hsla(255, 100%, 8%, 0.918);
+    background: #00121a;
     border-radius: 8px;
     color: rgb(255, 255, 255);
     opacity: 80%;
@@ -26,7 +26,7 @@ aside {
 }
 
 .cor {
-    background: #0075A6;
+    background: #00364de3;
     color: rgb(255, 255, 255);
     border-radius: 7px;
 }
