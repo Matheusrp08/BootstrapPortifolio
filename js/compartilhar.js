@@ -3,7 +3,7 @@ function share(){
 		navigator.share({
 			title: 'Matheus de Pádua -Desenvolvedor',
 			text: 'Desenvolvedor WEB',
-			url: 'www.devmatheuspadua.com.br',
+			url: '',
 		})
 		.then(() => console.log('Successful share'))
 		.catch((error) => console.log('Error sharing', error));
